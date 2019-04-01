@@ -24,4 +24,4 @@ A system to create and generate bills.
 
 Discount option, service charge, VAT.
 
-In order to give an efficient way of management not online in the software part, but also in the business interests we will be in contct with era restaurant, to catch what mostly fit better with the requirenments of the restaurant and also their clients.
+In order to give an efficient way of management not only in the software part, but also in the business interests we will be in contact with era restaurant, to catch what mostly fit better with the requirenments of the restaurant and also their clients.
